@@ -10,25 +10,25 @@ const cocktailLists = [
 	name: "چپل هیل شیراز",
 	country: "ایران",
 	detail: "بطری",
-	price: "$۱۵۰۰۰۰",
+	price: "۱۵۰۰۰۰",
  },
  {
 	name: "کاتن مالبی",
 	country: "دبی",
 	detail: "بطری",
-	price: "$۱۷۰۰۰۰",
+	price: "۱۷۰۰۰۰",
  },
  {
 	name: "کوکتل رینو",
 	country: "کانادا",
 	detail: "۷۵۰ میل",
-	price: "$۲۱۰۰۰۰",
+	price: "۲۱۰۰۰۰",
  },
  {
 	name: "گینس ایرلندی",
 	country: "ایرلند",
 	detail: "۷۵۰ میل",
-	price: "$۲۹۰۰۰۰",
+	price: "۲۹۰۰۰۰",
  },
 ];
 
@@ -37,25 +37,25 @@ const mockTailLists = [
 	name: "شکوفه استوایی",
 	country: "آمریکا",
 	detail: "بطری",
-	price: "$۳۸۰۰۰۰",
+	price: "۳۸۰۰۰۰",
  },
  {
 	name: "پشن فروت نعنا",
 	country: "آمریکا",
 	detail: "بطری",
-	price: "$۷۶۰۰۰۰",
+	price: "۷۶۰۰۰۰",
  },
  {
 	name: "سیتروس میروپ",
 	country: "کانادا",
 	detail: "۷۵۰ میل",
-	price: "$۵۴۰۰۰۰",
+	price: "۵۴۰۰۰۰",
  },
  {
 	name: "لاوندر فیز",
 	country: "کانادا",
 	detail: "۶۰۰ میل",
-	price: "$۴۹۰۰۰۰",
+	price: "۴۹۰۰۰۰",
  },
 ];
 
@@ -105,17 +105,17 @@ const openingHours = [
 
 const socials = [
  {
-	name: "Instagram",
+	name: "اینستاگرام",
 	icon: "/images/insta.png",
 	url: "#",
  },
  {
-	name: "X (Twitter)",
+	name: "توییتر",
 	icon: "/images/x.png",
 	url: "#",
  },
  {
-	name: "Facebook",
+	name: "فیسبوک",
 	icon: "/images/fb.png",
 	url: "#",
  },
