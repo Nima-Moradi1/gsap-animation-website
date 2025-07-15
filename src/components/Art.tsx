@@ -42,7 +42,7 @@ const Art = () => {
 		 
 		 <div className="cocktail-img">
 			<img
-				src="/images/under-img.jpg"
+				src="/images/under-img-2.jpg"
 				alt="cocktail"
 				className="abs-center masked-img size-full object-contain"
 			/>
@@ -59,7 +59,7 @@ const Art = () => {
 		</div>
 		
 		<div className="masked-container">
-		 <h2 className="will-fade">یک ارزش لایق نوشیدن</h2>
+		 <h2 className="will-fade py-10">یک ارزش لایق نوشیدن</h2>
 		 <div id="masked-content">
 			<h3>ساخته شده با بالاترین دقت</h3>
 			<p>اینجا فقط یه نوشیدنی ساده پیدا نمیکنی. بیا تا یکی از بهترین لحظات زندگیت رو با یک نوشیدنی خاص تجربه کنی</p>
