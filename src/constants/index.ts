@@ -89,7 +89,7 @@ const goodLists = [
 ];
 
 const storeInfo = {
- heading: "Where to Find Us",
+ heading: "ما کجا هستیم",
  address: "تهران محله آذری نرسیده به به خیابان چهل و پنج متری - بر سه راه آذری - موهیتولند عمو سعید",
  contact: {
 	phone: "+۹۸۹۰۳۶۸۳۷۷۸۸",
